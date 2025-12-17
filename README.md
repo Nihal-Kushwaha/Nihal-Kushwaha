@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20banner.png" width="1000" alt="Banner" />
+  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20Technology%20Profile%20%20Banner.gif" width="1000" alt="Banner" />
 </p>
 
 
