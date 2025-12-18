@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20new.png" />
+  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20Tech%20Banner.gif" />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Nihal Kushwaha</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
 
 
 <img
