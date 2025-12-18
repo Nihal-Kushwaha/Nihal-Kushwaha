@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20Tech%20Banner.gif" />
-</p>
 
 
 
@@ -24,7 +23,7 @@
 - 🤝 Open to internships, projects, and collaborative opportunities
 - 📫 How to reach me **nihal.kr0227@gmail.com**
 
-## 🌐 Socials:
+## 🌐 Connect me:
 # [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009926375666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nihal.027_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihal-kushwaha-2b48a3312/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Nihalku02520085) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@nihalkushwaha9533?si=VQ4l8_WwoYkaUrEl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihal.kr0227@gmail.com) 
 
 # 💻 Tech Stack:
