@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently studing **Data Science**.
+- 🌱 I’m currently learning **Data Science**.
 - 💻 Learning and applying Python, Statistics, and Data Science fundamentals.
 - 🛠️ Worked with tools like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 - 🔍 Passionate about converting raw data into meaningful insights.
