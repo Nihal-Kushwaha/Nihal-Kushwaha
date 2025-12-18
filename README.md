@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20Technology%20Profile%20%20Banner.gif" width="1000" alt="Banner" />
+  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Abstract%20new.png" />
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Nihal Kushwaha</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 
 <img
@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
 
-- 🌱 I’m currently a **Data Science** Student.
+- 🌱 I’m currently studing **Data Science**.
 - 💻 Learning and applying Python, Statistics, and Data Science fundamentals.
 - 🛠️ Worked with tools like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 - 🔍 Passionate about converting raw data into meaningful insights.
