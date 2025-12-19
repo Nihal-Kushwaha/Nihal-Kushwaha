@@ -92,12 +92,11 @@ Click on any project title to explore the source code.
 
 ## 📂 Projects
 
-### 🔗 [Prostate Cancer Prediction](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
+### 🔗 [Language Detection Using NLP](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
-**About This Project**
-> In this project, we use a Neural Network (NN) model to predict prostate cancer severity using a structured medical dataset containing 97 patient samples and 10 clinical features.
+> In this project, a dataset containing 10,337 text samples across 17 languages was used to build a machine learning model for language detection. The workflow included data preprocessing, feature extraction, model training, and evaluation. A Naive Bayes classifier was chosen due to its efficiency and strong performance in text classification tasks.
 
 ---
 
@@ -109,11 +108,12 @@ Click on any project title to explore the source code.
 > In this project, POS tagging and dependency parsing were successfully applied to a text corpus to analyze its grammatical structure. POS tagging provided word-level grammatical information, while dependency parsing offered deeper insights into syntactic relationships such as subject, object, and modifiers.
 ---
 
-### 🔗 [Language Detection Using NLP](https://github.com/Nihal-Kushwaha/Language-Detection-)
+### 🔗 [Prostate Cancer Prediction](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Language-Detection-)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
 
-> In this project, a dataset containing 10,337 text samples across 17 languages was used to build a machine learning model for language detection. The workflow included data preprocessing, feature extraction, model training, and evaluation. A Naive Bayes classifier was chosen due to its efficiency and strong performance in text classification tasks.
+**About This Project**
+> In this project, we use a Neural Network (NN) model to predict prostate cancer severity using a structured medical dataset containing 97 patient samples and 10 clinical features.
 
 ---
 
