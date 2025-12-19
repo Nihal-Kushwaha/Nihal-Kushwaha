@@ -31,13 +31,59 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nihal.kr0227@gmail.com)
 
 
-# 💻 Tech Stack:
-# ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+# 💻 **Tech Stack**
+
+## 🐍 **Programming & Scripting**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
+
+## 🤖 **Machine Learning & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+
+---
+
+## ☁️ **Cloud & Databases**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white)
+
+---
+
+## 📈 **Analytics & Data Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+## 🧰 **Tools & Platforms**
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+## 🎮 **Game Development & Platforms**
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nihal-Kushwaha&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nihal-Kushwaha&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Kushwaha&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 # 💼 **Project Portfolio**
 
@@ -55,15 +101,15 @@ Click on any project title to explore the source code.
 
 ---
 
-### 🔗 [Grammatical-Structure-Analysis](github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
+### 🔗 [Grammatical-Structure-Analysis](https://github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
 
 **About This Project**
 > In this project, POS tagging and dependency parsing were successfully applied to a text corpus to analyze its grammatical structure. POS tagging provided word-level grammatical information, while dependency parsing offered deeper insights into syntactic relationships such as subject, object, and modifiers.
 ---
 
-### 🔗 [Language Detection Using NLP](github.com/Nihal-Kushwaha/Language-Detection-)
+### 🔗 [Language Detection Using NLP](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
@@ -81,7 +127,6 @@ Each project focuses on transforming raw data into meaningful insights to suppor
 
 ---
 
-⭐ If you like my work, don’t forget to star the repositories!
+ ## ⭐ If you like my work, don’t forget to star the repositories!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
