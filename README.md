@@ -39,6 +39,49 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nihal-Kushwaha&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-Kushwaha&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 💼 **Project Portfolio**
+
+> Below you’ll find a selection of repositories that highlight my technical skills and practical experience.
+Click on any project title to explore the source code.
+
+## 📂 Projects
+
+### 🔗 [Prostate Cancer Prediction](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Prostate-Cancer-Prediction)
+
+**About This Project**
+> In this project, we use a Neural Network (NN) model to predict prostate cancer severity using a structured medical dataset containing 97 patient samples and 10 clinical features.
+
+---
+
+### 🔗 [Grammatical-Structure-Analysis](github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](github.com/Nihal-Kushwaha/Grammatical-Structure-Analysis)
+
+**About This Project**
+> In this project, POS tagging and dependency parsing were successfully applied to a text corpus to analyze its grammatical structure. POS tagging provided word-level grammatical information, while dependency parsing offered deeper insights into syntactic relationships such as subject, object, and modifiers.
+---
+
+### 🔗 [Language Detection Using NLP](github.com/Nihal-Kushwaha/Language-Detection-)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Language-Detection-)
+
+> In this project, a dataset containing 10,337 text samples across 17 languages was used to build a machine learning model for language detection. The workflow included data preprocessing, feature extraction, model training, and evaluation. A Naive Bayes classifier was chosen due to its efficiency and strong performance in text classification tasks.
+
+---
+
+### 📊 [Business Intelligence Projects](https://github.com/Nihal-Kushwaha/Business-Intelligence)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Business-Intelligence)
+
+**About This Project**
+> This repository contains a collection of Business Intelligence dashboards developed using Power BI and Tableau.
+Each project focuses on transforming raw data into meaningful insights to support data-driven decision-making.
+
+---
+
+⭐ If you like my work, don’t forget to star the repositories!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
