@@ -92,11 +92,21 @@ Click on any project title to explore the source code.
 
 ## 📂 Projects
 
+
+
 ### 🔗 [Language Detection Using NLP](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Language-Detection-)
 
 > In this project, a dataset containing 10,337 text samples across 17 languages was used to build a machine learning model for language detection. The workflow included data preprocessing, feature extraction, model training, and evaluation. A Naive Bayes classifier was chosen due to its efficiency and strong performance in text classification tasks.
+
+---
+
+### 🔗 [News-Category-Classification](https://github.com/Nihal-Kushwaha/News-Category-Classification)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/News-Category-Classification)
+
+> This project focuses on building a News Category Classification system that automatically classifies news articles into predefined categories using machine learning techniques. By applying text preprocessing, feature extraction, and supervised learning algorithms, the system is able to accurately predict the category of unseen news articles.
 
 ---
 
