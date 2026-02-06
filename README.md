@@ -95,7 +95,6 @@ Click on any project title to explore the source code.
 ### 🔗 [Liver Disease Clinical Assessment](https://github.com/Nihal-Kushwaha/Liver-Disease-Clinical-Assessment-System)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Nihal-Kushwaha/Liver-Disease-Clinical-Assessment-System)
-> Click To View Live Demo
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://liver-disease-clinical-assessment-system.streamlit.app)
 
 
